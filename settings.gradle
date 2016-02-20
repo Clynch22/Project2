@@ -1,0 +1,1 @@
+include ':app', ':bitmap_utilities', ':project2_Solution_color'
